@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\bin\Release\netcoreapp3.1\CoreConsoleUI.exe
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\bin\Release\netcoreapp3.1\CoreConsoleUI.deps.json
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\bin\Release\netcoreapp3.1\CoreConsoleUI.runtimeconfig.json
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\bin\Release\netcoreapp3.1\CoreConsoleUI.runtimeconfig.dev.json
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\bin\Release\netcoreapp3.1\CoreConsoleUI.dll
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\bin\Release\netcoreapp3.1\CoreConsoleUI.pdb
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\obj\Release\netcoreapp3.1\CoreConsoleUI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\obj\Release\netcoreapp3.1\CoreConsoleUI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\obj\Release\netcoreapp3.1\CoreConsoleUI.AssemblyInfo.cs
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\obj\Release\netcoreapp3.1\CoreConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\obj\Release\netcoreapp3.1\CoreConsoleUI.dll
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\obj\Release\netcoreapp3.1\CoreConsoleUI.pdb
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\obj\Release\netcoreapp3.1\CoreConsoleUI.genruntimeconfig.cache

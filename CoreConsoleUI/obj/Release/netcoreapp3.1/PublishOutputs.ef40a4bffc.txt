@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\bin\Release\netcoreapp3.1\publish\CoreConsoleUI.exe
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\bin\Release\netcoreapp3.1\publish\CoreConsoleUI.dll
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\bin\Release\netcoreapp3.1\publish\CoreConsoleUI.deps.json
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\bin\Release\netcoreapp3.1\publish\CoreConsoleUI.runtimeconfig.json
+C:\Users\User\source\repos\CoreConsole\CoreConsoleUI\bin\Release\netcoreapp3.1\publish\CoreConsoleUI.pdb
